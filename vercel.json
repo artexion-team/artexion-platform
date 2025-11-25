@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/early-access", "destination": "/landing_page.html" }
+  ]
+}
